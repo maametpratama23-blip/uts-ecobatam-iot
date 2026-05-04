@@ -27,3 +27,23 @@
    ```bash
    git clone [https://github.com/username-anda/uts-ecobatam-iot.git](https://github.com/username-anda/uts-ecobatam-iot.git)
    cd SMART-TRASH-PROJETUTS
+
+   ## 📷 Galeri Preview Sistem
+
+Berikut adalah tampilan antarmuka sistem Smart Trash EcoBatam:
+
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210528.png" width="100%" alt="Dashboard 1"></td>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210606.png" width="100%" alt="Dashboard 2"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210716.png" width="100%" alt="Nodes View"></td>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210724.png" width="100%" alt="Analytics"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/Screenshot%202026-05-04%20210742.png" width="50%" alt="Create Node">
+    </td>
+  </tr>
+</table>
