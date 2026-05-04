@@ -32,18 +32,17 @@
 
 Berikut adalah tampilan antarmuka sistem Smart Trash EcoBatam:
 
+## 📷 Galeri Preview Sistem
+
+Berikut adalah tampilan antarmuka sistem Smart Trash EcoBatam yang sudah berfungsi:
+
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot%202026-05-04%20210528.png" width="100%" alt="Dashboard 1"></td>
-    <td><img src="screenshots/Screenshot%202026-05-04%20210606.png" width="100%" alt="Dashboard 2"></td>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210528.png" width="100%" alt="Dashboard Utama"></td>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210716.png" width="100%" alt="Manajemen Node"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot%202026-05-04%20210716.png" width="100%" alt="Nodes View"></td>
-    <td><img src="screenshots/Screenshot%202026-05-04%20210724.png" width="100%" alt="Analytics"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="screenshots/Screenshot%202026-05-04%20210742.png" width="50%" alt="Create Node">
-    </td>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210724.png" width="100%" alt="Analitik Data"></td>
+    <td><img src="screenshots/Screenshot%202026-05-04%20210742.png" width="100%" alt="Tambah Data"></td>
   </tr>
 </table>
